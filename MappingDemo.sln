@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingDemo", "MappingDemo\MappingDemo.csproj", "{2E51EFB5-583B-41D7-8BB6-92A1C9F43509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingDemoTest", "MappingDemoTest\MappingDemoTest.csproj", "{CC490556-6B2A-47F0-81B4-9D834D27F02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E51EFB5-583B-41D7-8BB6-92A1C9F43509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E51EFB5-583B-41D7-8BB6-92A1C9F43509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E51EFB5-583B-41D7-8BB6-92A1C9F43509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E51EFB5-583B-41D7-8BB6-92A1C9F43509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC490556-6B2A-47F0-81B4-9D834D27F02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC490556-6B2A-47F0-81B4-9D834D27F02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC490556-6B2A-47F0-81B4-9D834D27F02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC490556-6B2A-47F0-81B4-9D834D27F02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F490649-A604-4220-B34A-90202884D94E}
+	EndGlobalSection
+EndGlobal
