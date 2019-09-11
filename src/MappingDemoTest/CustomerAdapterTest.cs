@@ -18,7 +18,7 @@ namespace MappingDemoTest
         private CustomerAdapter customerAdapter;
 
         [SetUp]
-        public void GiveWeTransformACustomerDTO()
+        public void GivenWeTransformACustomerDTO()
         {
             customerDTO = new CustomerDTO { FirstName = "Robert", LastName = "Zimmerman" };
             customerCompare = new Customer { Name = "Robert Zimmerman" };
